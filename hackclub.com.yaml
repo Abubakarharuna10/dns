@@ -939,4 +939,9 @@ zapdos.servers:
     type: CNAME
     value: https://hack9ja.vercel.app
     
+  hello@nigeria:
+  - ttl: 1
+    type: CNAME
+    value: https://hack9ja.vercel.app
+    
     
